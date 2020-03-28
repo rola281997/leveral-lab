@@ -1,0 +1,36 @@
+.table {
+   margin: auto;
+   width: 80% !important;
+    align: center;
+    font-size: 25px;
+    height:300px;
+
+}
+.tr {
+    width: 100%;
+    display: inline-table;
+
+}
+
+.center-txt {
+    text-align: center;
+}
+
+.cont{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.cont a{
+    display: inline-block;
+}
+#btn1{
+    float:left;
+}
+#btn3{
+    float:right;
+}
+
+.span-txt{
+    font-size: 30px;
+}
